@@ -1,0 +1,18 @@
+{
+  "name": "ipl_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "-": "^0.0.1",
+    "csv": "^6.2.5",
+    "jquery": "^3.6.3",
+    "jquery-csv": "^1.0.21"
+  }
+}
